@@ -12,7 +12,8 @@
             "awayTeam": "LSU",
             "spread": "-10.5 LSU",
             "score": "16-11",
-            "isCompleted": true
+            "isCompleted": true,
+            "id": "2024_w1_USCvsLSU"
         },
         {
             "homeTeam": "Toledo",
@@ -26,7 +27,8 @@
             "awayTeam": "Washington",
             "spread": "-10.5 Washington",
             "score": "52-58",
-            "isCompleted": true
+            "isCompleted": true,
+            "id": "2024_w1_TexasvsUW"
         }
     ],
     "Week2": [
@@ -55,6 +57,186 @@
             "homeTeam": "Washington",
             "awayTeam": "Ole Miss",
             "spread": "-2.5 Washington",
+            "score": "",
+            "isCompleted": false
+        }
+    ],
+    "Week3": [
+        {
+            "homeTeam": "USC",
+            "awayTeam": "Washington",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "LSU",
+            "awayTeam": "Georgia",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Colorado",
+            "awayTeam": "Ole Miss",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Toledo",
+            "awayTeam": "Texas",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        }
+    ],
+    "Week4": [
+        {
+            "homeTeam": "Toledo",
+            "awayTeam": "Colorado",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Georgia",
+            "awayTeam": "Ole Miss",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Washington",
+            "awayTeam": "LSU",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Texas",
+            "awayTeam": "USC",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        }
+    ],
+    "Week5": [
+        {
+            "homeTeam": "Washington",
+            "awayTeam": "Toledo",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Toledo",
+            "awayTeam": "LSU",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Georgia",
+            "awayTeam": "Texas",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "USC",
+            "awayTeam": "Colorado",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        }
+    ],
+    "Week6": [
+        {
+            "homeTeam": "LSU",
+            "awayTeam": "Texas",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "USC",
+            "awayTeam": "Ole Miss",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Georgia",
+            "awayTeam": "Toledo",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Colorado",
+            "awayTeam": "Washington",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        }
+    ],
+    "Week7": [
+        {
+            "homeTeam": "LSU",
+            "awayTeam": "Colorado",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Washington",
+            "awayTeam": "Georgia",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Texas",
+            "awayTeam": "Ole Miss",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "USC",
+            "awayTeam": "Toledo",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        }
+    ],
+    "Week8": [
+        {
+            "homeTeam": "Texas",
+            "awayTeam": "Colorado",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Ole Miss",
+            "awayTeam": "Toledo",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "LSU",
+            "awayTeam": "Washington",
+            "spread": "",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "USC",
+            "awayTeam": "Georgia",
+            "spread": "",
             "score": "",
             "isCompleted": false
         }
