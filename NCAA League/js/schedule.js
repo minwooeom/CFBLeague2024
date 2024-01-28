@@ -12,6 +12,7 @@ function openWeek(evt, weekName) {
     evt.currentTarget.className += " active-tab";
 }
 
+
 // Function to load and display the schedule
 function loadSchedule() {
     fetch('../json/schedule.json')
@@ -29,13 +30,19 @@ function loadSchedule() {
                         awayTeamClass = parseInt(scoreParts[0]) < parseInt(scoreParts[1]) ? 'winner' : 'loser';
                     }
 
+                    let spreadText = game.spread ? `, Spread: ${game.spread}` : '';
+
+                    let gameLink = `gameDetails.html?game=${game.id}`;
+
                     scheduleHtml += `
                         <li>
-                            <span class="${homeTeamClass}">${game.homeTeam}</span> vs 
-                            <span class="${awayTeamClass}">${game.awayTeam}</span>, 
-                            Spread: ${game.spread}, 
-                            Score: ${game.score ? game.score : 'TBD'}
+                            <a href="${gameLink}">
+                                <span class="${homeTeamClass}">${game.homeTeam}</span> vs 
+                                <span class="${awayTeamClass}">${game.awayTeam}</span>${spreadText}, 
+                                Score: ${game.score ? game.score : 'TBD'}
+                            </a>
                         </li>`;
+
                 }
                 scheduleHtml += '</ul>';
                 document.getElementById(week).innerHTML = scheduleHtml;
