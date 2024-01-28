@@ -1,0 +1,58 @@
+[
+    {
+        "team": "LSU (Tom)",
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "pointDiff": -5
+    },
+    {
+        "team": "Texas (Bob)",
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "pointDiff": -6
+    },
+    {
+        "team": "Toledo (Adrian)",
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "pointDiff": 32
+    },
+    {
+        "team": "Washington (Minwoo)",
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "pointDiff": 6
+    },
+    {
+        "team": "Ole Miss (JP)",
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "pointDiff": -32
+    },
+    {
+        "team": "USC (Chen)",
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "pointDiff": 5
+    },
+    {
+        "team": "Georgia (Kaveh)",
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "pointDiff": 7
+    },
+    {
+        "team": "Colorado (Logan)",
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "pointDiff": -7
+    }
+]

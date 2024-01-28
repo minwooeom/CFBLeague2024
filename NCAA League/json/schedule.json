@@ -1,0 +1,62 @@
+{
+    "Week1": [
+        {
+            "homeTeam": "Colorado",
+            "awayTeam": "Georgia",
+            "spread": "-6.5 Georgia",
+            "score": "17-24",
+            "isCompleted": true
+        },
+        {
+            "homeTeam": "USC",
+            "awayTeam": "LSU",
+            "spread": "-10.5 LSU",
+            "score": "16-11",
+            "isCompleted": true
+        },
+        {
+            "homeTeam": "Toledo",
+            "awayTeam": "Ole Miss",
+            "spread": "-6.5 Toledo",
+            "score": "48-16",
+            "isCompleted": true
+        },
+        {
+            "homeTeam": "Texas",
+            "awayTeam": "Washington",
+            "spread": "-10.5 Washington",
+            "score": "52-58",
+            "isCompleted": true
+        }
+    ],
+    "Week2": [
+        {
+            "homeTeam": "LSU",
+            "awayTeam": "Toledo",
+            "spread": "-16.5 Toledo",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Georgia",
+            "awayTeam": "Texas",
+            "spread": "-6.5 Texas",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Colorado",
+            "awayTeam": "USC",
+            "spread": "-6.5 Colorado",
+            "score": "",
+            "isCompleted": false
+        },
+        {
+            "homeTeam": "Washington",
+            "awayTeam": "Ole Miss",
+            "spread": "-2.5 Washington",
+            "score": "",
+            "isCompleted": false
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "2024_w1_USCvsLSU": {
+        "newsTitle": "Trojan Circus: USC's Shocking Win Leaves LSU in Hysterics",
+        "newsImg": "../img/usc_vs_lsu.jpg",
+        "newsCaption": "True Freshman USC QB Malachi Nelson Shines as Trojans Overcome Halftime Deficit to Halt LSU",
+        "articleText": "In a game that had more twists and turns than a rollercoaster at a funfair, the USC Trojans pulled off a stunning upset against the LSU Tigers. The odds were stacked against them, with LSU being the hefty 10.5-point favorites, but USC had some tricks up their sleeves, and it all started with a true freshman named Malachi Nelson.\n\nLSU fans were feeling pretty confident when starting QB Caleb Williams threw not one, but two interceptions. It was like he was trying to test the limits of how much they could yell 'Geaux Tigers!' in despair. But never fear, because in stepped Malachi Nelson, who went 7 for 8, tossing for 173 yards and two touchdowns, and the USC fans collectively said, 'Caleb who?'\n\nOn the other side of the field, Jayden Daniels looked about as lost as a squirrel in a blender, throwing for a dismal 10/26 with no touchdowns and two interceptions. He might want to consider a career change to professional hide-and-seek.\n\nLSU had a cozy 11-0 lead at halftime, but USC was not ready to throw in the towel. They mounted an epic comeback, ultimately winning 16-11. LSU had one last-ditch effort to snatch victory from the jaws of defeat, but USC's defense stood tall and said, 'Not today, my friends!'\n\nIt was a game for the books, proving once again that in college football, anything can happen. And for Malachi Nelson, well, he's the Trojan horse that LSU never saw coming.",
+        "score": "USC 24 - LSU 17",
+        "stats": {
+            "team1": {
+                "QBName": "Malachi Nelson",
+                "team": "USC",
+                "comp": 7,
+                "att": 8,
+                "yds": 173,
+                "td": 2,
+                "int": 0
+            },
+            "team2": {
+                "QBName": "Jayden Daniels",
+                "team": "LSU",
+                "comp": 10,
+                "att": 26,
+                "yds": 160,
+                "td": 0,
+                "int": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Carson Beck",
+        "comp": 8,
+        "att": 14,
+        "yds": 188,
+        "td": 3,
+        "int": 0,
+        "image": "../img/carsonbeck.jpg"
+    },
+    {
+        "name": "Jayden Daniels",
+        "comp": 10,
+        "att": 26,
+        "yds": 160,
+        "td": 0,
+        "int": 2,
+        "image": "../img/jadyend.jpg"
+    },
+    {
+        "name": "Malachi Nelson",
+        "comp": 7,
+        "att": 8,
+        "yds": 173,
+        "td": 2,
+        "int": 0,
+        "image": "../img/nelson.jpg"
+    },
+    {
+        "name": "Quinn Ewers",
+        "comp": 18,
+        "att": 37,
+        "yds": 405,
+        "td": 6,
+        "int": 5,
+        "image": "../img/ewers.jpg"
+    },
+    {
+        "name": "Michael Penix Jr",
+        "comp": 20,
+        "att": 30,
+        "yds": 424,
+        "td": 6,
+        "int": 4,
+        "image": "../img/penix.jpg"
+    },
+    {
+        "name": "Jaxon Dart",
+        "comp": 21,
+        "att": 40,
+        "yds": 264,
+        "td": 2,
+        "int": 6,
+        "image": "../img/dart.jpg"
+    },
+    {
+        "name": "Caleb Williams",
+        "comp": 5,
+        "att": 12,
+        "yds": 72,
+        "td": 0,
+        "int": 2,
+        "image": "../img/williams.jpg"
+    }
+]
