@@ -1,7 +1,7 @@
 {
     "2024_w1_USCvsLSU": {
         "newsTitle": "Trojan Circus: USC's Shocking Win Leaves LSU in Hysterics",
-        "newsImg": "../img/usc_vs_lsu.jpg",
+        "newsImg": "../img/w1_usc.jpg",
         "newsCaption": "True Freshman USC QB Malachi Nelson Shines as Trojans Overcome Halftime Deficit to Halt LSU",
         "articleText": "In a game that had more twists and turns than a rollercoaster at a funfair, the USC Trojans pulled off a stunning upset against the LSU Tigers. The odds were stacked against them, with LSU being the hefty 10.5-point favorites, but USC had some tricks up their sleeves, and it all started with a true freshman named Malachi Nelson.\n\nLSU fans were feeling pretty confident when starting QB Caleb Williams threw not one, but two interceptions. It was like he was trying to test the limits of how much they could yell 'Geaux Tigers!' in despair. But never fear, because in stepped Malachi Nelson, who went 7 for 8, tossing for 173 yards and two touchdowns, and the USC fans collectively said, 'Caleb who?'\n\nOn the other side of the field, Jayden Daniels looked about as lost as a squirrel in a blender, throwing for a dismal 10/26 with no touchdowns and two interceptions. He might want to consider a career change to professional hide-and-seek.\n\nLSU had a cozy 11-0 lead at halftime, but USC was not ready to throw in the towel. They mounted an epic comeback, ultimately winning 16-11. LSU had one last-ditch effort to snatch victory from the jaws of defeat, but USC's defense stood tall and said, 'Not today, my friends!'\n\nIt was a game for the books, proving once again that in college football, anything can happen. And for Malachi Nelson, well, he's the Trojan horse that LSU never saw coming.",
         "score": "USC 24 - LSU 17",
@@ -23,6 +23,33 @@
                 "yds": 160,
                 "td": 0,
                 "int": 2
+            }
+        }
+    },
+    "2024_w1_TexasvsUW": {
+        "newsTitle": "UW Steals the Show in Primetime Thriller, Edging Texas 58-52 with Dramatic Pick-6 Victory",
+        "newsImg": "../img/w1_uw.jpg",
+        "newsCaption": "UW's Unbelievable Victory Over Texas Comes Down to a Costly Coaching Blunder",
+        "articleText": "In a game that left fans questioning their life choices, UW managed to overcome the odds and topple Texas in a high-octane, prime-time showdown that felt more like a circus than a football game. With UW being the 10.5 favorites, everyone expected a dominant performance, but what we got was pure gridiron chaos.\n\nBoth quarterbacks, Penix for UW and Ewers for Texas, seemed determined to set records for the number of touchdowns and interceptions in a single game. In total, they combined for a jaw-dropping 12 touchdowns and an eye-watering 9 interceptions, making each pass attempt feel like a game of Russian roulette.\n\nBut the real spectacle happened in the closing moments of the fourth quarter when Texas, facing a tied game, made a coaching decision that will haunt their nightmares. Instead of playing it safe and securing the win, Texas decided to roll the dice with a Hail Mary pass. What followed was an interception that turned into a game-winning pick-6 for UW, leaving fans in stitches and Texas fans in tears.\n\nAmid the madness, UW QB Penix threw for a mind-boggling 424 yards, 6 touchdowns, and somehow managed to squeeze in 4 interceptions. On the other side, Texas QB Ewers wasn't far behind with 405 yards and 6 touchdowns, but he outdid Penix in the interception department with 5 picks.\n\nIn the end, UW walked away with the win, but the real MVP of the night was the comedy of errors that unfolded on the field. It's safe to say that this game will be remembered for a long time, not for its football prowess, but for its hilarious unpredictability.",
+        "score": "UW 58 - Texas 52",
+        "stats": {
+            "team1": {
+                "QBName": "Michael Penix Jr",
+                "team": "UW",
+                "comp": 20,
+                "att": 30,
+                "yds": 424,
+                "td": 6,
+                "int": 4
+            },
+            "team2": {
+                "QBName": "Quinn Ewers",
+                "team": "Texas",
+                "comp": 18,
+                "att": 37,
+                "yds": 405,
+                "td": 6,
+                "int": 5
             }
         }
     }
