@@ -11,6 +11,23 @@ header {
     padding: 10px 0;
 }
 
+a {
+    color: inherit;
+    /* This will make links use the text color of the parent element */
+    text-decoration: none;
+    /* Removes the underline */
+    transition: color 0.3s;
+    /* Smooth transition for color change */
+}
+
+/* Hover effect for links */
+a:hover {
+    color: #3498db;
+    /* Change to a color of your choice for the hover state */
+    text-decoration: none;
+    /* Ensures underline doesn't reappear on hover */
+}
+
 .nav-bar {
     display: flex;
     justify-content: center;
@@ -76,6 +93,20 @@ main {
 
 .news {
     text-align: center;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+@media screen and (max-width: 768px) {
+
+    /* Adjust the max-width as needed */
+    .news-grid {
+        grid-template-columns: 1fr;
+        /* One column for smaller screens */
+    }
 }
 
 .news-item {
@@ -150,11 +181,15 @@ main {
 }
 
 .tab-headers {
+    display: flex;
+    justify-content: center;
     overflow: hidden;
     background-color: #2C3E50;
 }
 
 .tab-link {
+    flex-grow: 1;
+    text-align: center;
     background-color: inherit;
     float: left;
     border: none;
