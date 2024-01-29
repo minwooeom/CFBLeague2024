@@ -546,6 +546,19 @@ main {
     border-radius: 10px;
 }
 
+/* Media query for screens smaller than 768px (e.g., smartphones) */
+@media screen and (max-width: 768px) {
+
+    .game-details img {
+        max-width: 100%;
+        /* Set maximum width to ensure responsiveness */
+        height: auto;
+        margin: 10px 0;
+        /* Adjust margins as needed */
+    }
+}
+
+
 
 footer {
     background-color: #2C3E50;
