@@ -48,25 +48,34 @@ a:hover {
 /* Media query for screens smaller than 768px (e.g., smartphones) */
 @media screen and (max-width: 768px) {
 
-    /* Adjust your styles here for smaller screens */
     header {
         padding: 5px 0;
     }
 
-    .nav-bar {
-        flex-direction: column;
-    }
-
     .nav-bar a {
-        padding: 10px 0;
-        text-align: center;
+        padding: 5px 10px;
+        font-size: 14px;
+        /* Adjust font size for smaller screens */
     }
 
     .news-item img {
-        width: 100%;
+        max-width: 100%;
+        /* Set maximum width to ensure responsiveness */
         height: auto;
+        margin: 10px 0;
+        /* Adjust margins as needed */
+    }
+
+    footer {
+        padding: 5px 0;
+    }
+
+    footer p {
+        font-size: 14px;
+        /* Adjust font size for smaller screens */
     }
 }
+
 
 /* Media query for screens between 768px and 1024px (e.g., tablets) */
 @media screen and (min-width: 769px) and (max-width: 1024px) {
@@ -74,6 +83,14 @@ a:hover {
     /* Adjust your styles here for tablets */
     .nav-bar {
         font-size: 16px;
+    }
+
+    .news-item img {
+        max-width: 100%;
+        /* Set maximum width to ensure responsiveness */
+        height: auto;
+        margin: 10px 0;
+        /* Adjust margins as needed */
     }
 }
 
@@ -83,6 +100,14 @@ a:hover {
     /* Adjust your styles here for desktops */
     header {
         padding: 15px 0;
+    }
+
+    .news-item img {
+        max-width: 100%;
+        /* Set maximum width to ensure responsiveness */
+        height: auto;
+        margin: 10px 0;
+        /* Adjust margins as needed */
     }
 
     .nav-bar {
@@ -157,7 +182,7 @@ main {
 }
 
 .news-item {
-    margin-bottom: 20px;
+    margin: 20px;
     text-align: center;
 }
 
@@ -227,8 +252,11 @@ main {
     padding: 10px;
 }
 
+/* Ensure the tab headers wrap to the next line on smaller screens */
 .tab-headers {
     display: flex;
+    flex-wrap: wrap;
+    /* Allow headers to wrap to the next line */
     justify-content: center;
     overflow: hidden;
     background-color: #2C3E50;
@@ -238,7 +266,8 @@ main {
     flex-grow: 1;
     text-align: center;
     background-color: inherit;
-    float: left;
+    float: none;
+    /* Remove the float to prevent headers from overflowing */
     border: none;
     outline: none;
     cursor: pointer;
@@ -247,6 +276,17 @@ main {
     font-size: 17px;
     color: white;
 }
+
+/* Adjust the width of the headers on smaller screens */
+@media screen and (max-width: 768px) {
+    .tab-link {
+        flex-basis: 33.33%;
+        /* Set the width to 33.33% to fit 3 headers per row */
+        max-width: 33.33%;
+        /* Ensure the headers don't exceed 33.33% width */
+    }
+}
+
 
 .tab-link:hover {
     background-color: #ddd;
@@ -379,6 +419,25 @@ main {
     margin-right: 10px;
     vertical-align: middle;
     object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+    .stats table {
+        font-size: 14px;
+        /* Decrease font size for smaller screens */
+    }
+
+    .qb-image {
+        width: 50px;
+        /* Adjust as needed */
+        height: 50px;
+        /* Adjust as needed */
+        border-radius: 50%;
+        /* Makes the image circular */
+        margin-right: 10px;
+        vertical-align: middle;
+        object-fit: cover;
+    }
 }
 
 .game-details {
