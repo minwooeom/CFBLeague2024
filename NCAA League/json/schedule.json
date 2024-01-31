@@ -5,7 +5,8 @@
             "awayTeam": "Georgia",
             "spread": "-6.5 Georgia",
             "score": "17-24",
-            "isCompleted": true
+            "isCompleted": true,
+            "id":"2024_w1_ColoradovsGeorgia"
         },
         {
             "homeTeam": "USC",
@@ -20,7 +21,8 @@
             "awayTeam": "Ole Miss",
             "spread": "-6.5 Toledo",
             "score": "48-16",
-            "isCompleted": true
+            "isCompleted": true,
+            "id": "2024_w1_ToledoCvsOleMiss"
         },
         {
             "homeTeam": "Texas",
