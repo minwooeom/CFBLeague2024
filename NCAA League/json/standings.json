@@ -1,6 +1,7 @@
 [
     {
         "team": "LSU (Tom)",
+        "id": "tomc",
         "wins": 0,
         "losses": 1,
         "ties": 0,
@@ -8,6 +9,7 @@
     },
     {
         "team": "Texas (Bob)",
+        "id": "bobc",
         "wins": 0,
         "losses": 1,
         "ties": 0,
@@ -15,6 +17,7 @@
     },
     {
         "team": "Toledo (Adrian)",
+        "id": "adrianw",
         "wins": 1,
         "losses": 0,
         "ties": 0,
@@ -22,6 +25,7 @@
     },
     {
         "team": "Washington (Minwoo)",
+        "id": "minwooe",
         "wins": 1,
         "losses": 0,
         "ties": 0,
@@ -29,6 +33,7 @@
     },
     {
         "team": "Ole Miss (JP)",
+        "id": "jpi",
         "wins": 0,
         "losses": 1,
         "ties": 0,
@@ -36,6 +41,7 @@
     },
     {
         "team": "USC (Chen)",
+        "id": "ethanc",
         "wins": 1,
         "losses": 0,
         "ties": 0,
@@ -43,6 +49,7 @@
     },
     {
         "team": "Georgia (Kaveh)",
+        "id": "kavehw",
         "wins": 1,
         "losses": 0,
         "ties": 0,
@@ -50,6 +57,7 @@
     },
     {
         "team": "Colorado (Logan)",
+        "id": "logany",
         "wins": 0,
         "losses": 1,
         "ties": 0,

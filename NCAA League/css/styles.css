@@ -558,6 +558,135 @@ main {
     }
 }
 
+/* coach details */
+.background-image img {
+    width: 100%;
+    height: 600px;
+    /* Set a fixed height for the background image */
+    object-fit: cover;
+    /* This will ensure the image covers the area without stretching */
+    opacity: 1.0;
+    /* Adjust opacity for background image */
+
+}
+
+.profile-pic {
+    width: 200px;
+    /* Adjust size as needed */
+    height: 200px;
+    /* Make the image rectangular */
+    object-fit: cover;
+    /* Ensures the image does not stretch */
+    border-radius: 10px;
+    /* Slightly rounded corners for a modern look */
+    border: 4px solid #fff;
+    /* White border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    /* Add shadow for depth */
+}
+
+
+.profile-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -175px;
+
+    /* Adjust depending on your layout */
+}
+
+.coach-info {
+    text-align: center;
+    padding: 20px;
+    /* Light background for the text area */
+    margin-top: 20px;
+    /* Space from the profile pic */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    color: #333;
+    /* Adjust text color */
+}
+
+.coach-info h1 {
+    margin: 0 0 10px 0;
+}
+
+.achievement {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+    /* Slightly more vertical spacing */
+    padding: 10px;
+    border-radius: 8px;
+    /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    /* Subtle shadow for depth */
+}
+
+.achievement-icon {
+    width: 60px;
+    /* Slightly larger icon size */
+    height: 60px;
+    margin-right: 15px;
+    /* More spacing between icon and text */
+}
+
+.achievement-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.achievement-text {
+    font-size: 1.2em;
+    /* Maintaining a slightly larger text size */
+    color: #000;
+    /* Pure black for better contrast */
+    /* Modern, clean font */
+    letter-spacing: 0.5px;
+    /* Slightly spaced out for a modern look */
+    font-weight: 500;
+    /* Medium font weight for emphasis */
+    margin-bottom: 5px;
+    /* Spacing for better readability */
+}
+
+
+
+/* Responsive design considerations */
+@media (max-width: 768px) {
+    .profile-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .profile-pic {
+        margin-bottom: 10px;
+    }
+
+    .coach-info {
+        text-align: center;
+    }
+
+    .achievement {
+        flex-direction: column;
+        /* Stack icon and text vertically on small screens */
+        align-items: center;
+        text-align: center;
+        margin: x 0;
+    }
+
+    .achievement-icon {
+        margin-bottom: 5px;
+        /* Space between icon and text on small screens */
+    }
+
+    .achievement-text {
+        font-size: 1em;
+        /* Slightly smaller font size for small screens */
+    }
+}
 
 
 footer {

@@ -26,7 +26,7 @@ function loadStandings() {
 
                 standingsHtml += `
                     <tr class="${rowClass}">
-                        <td>${standing.team}</td>
+                        <td><a href="coachDetail.html?coachId=${standing.id}" class="team-link">${standing.team}</a></td>
                         <td>${standing.wins}</td>
                         <td>${standing.losses}</td>
                         <td>${standing.ties}</td>
@@ -57,6 +57,15 @@ function loadStandings() {
             pollBody.innerHTML = pollHtml;
         })
         .catch(error => console.error('Error loading coaches poll:', error));
+
+    document.querySelectorAll('.team-link').forEach(link => {
+        link.addEventListener('click', function (event) {
+            event.preventDefault();
+            const coachId = this.closest('tr').dataset.coachId;
+            // Call a function to fetch and display coach details
+            fetchCoachDetails(coachId);
+        });
+    });
 }
 
 document.addEventListener('DOMContentLoaded', loadStandings);
