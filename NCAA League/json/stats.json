@@ -9,6 +9,24 @@
         "image": "../img/carsonbeck.jpg"
     },
     {
+        "name": "Dequan Finn",
+        "comp": 8,
+        "att": 15,
+        "yds": 234,
+        "td": 5,
+        "int": 0,
+        "image": "../img/finn.jpg"
+    },
+    {
+        "name": "Shedeur Sanders",
+        "comp": 24,
+        "att": 41,
+        "yds": 215,
+        "td": 1,
+        "int": 1,
+        "image": "../img/sanders.jpg"
+    },
+    {
         "name": "Jayden Daniels",
         "comp": 10,
         "att": 26,
