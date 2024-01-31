@@ -26,6 +26,60 @@
             }
         }
     },
+    "2024_w1_ColoradovsGeorgia": {
+        "newsTitle": "Georgia's False Starts on Defense Somehow Lead to a Win in Colorado",
+        "newsImg": "../img/w1_georgia.jpg",
+        "newsCaption": "Carson Beck Throws Hilarious Touchdown Party, Georgia's -6.5 Favorites Prove Right",
+        "articleText": "In a game that looked more like a comedy sketch than a football match, the Georgia Bulldogs somehow managed to claw their way to a 24-17 win over Colorado, despite their defense playing a game of 'Red Light, Green Light' with false starts. It's like they thought the game had a secret bonus round for most flags on the field.\n\nGeorgia's QB Carson Beck, on the other hand, turned the gridiron into his own personal laugh factory. Throwing 8/14 for 188 yards and 3 touchdowns, Beck was like that one uncle at a family BBQ who thinks he's a grill master – except Beck actually knew what he was doing. No interceptions, just pure, unadulterated touchdown goodness.\n\nMeanwhile, Colorado's QB Shedeur Sanders was out there slinging the ball 24/41 for 215 yards, but with only 1 touchdown and an interception to show for it. It's like he was playing darts in the dark – sometimes hitting the board, sometimes hitting the wall.\n\nIn the end, Georgia's chaotic 'start-stop-repeat' defense and Beck's touchdown fiesta proved too much for Colorado. The Bulldogs, as -6.5 favorites, walked away winners, probably scratching their heads and thinking, 'How did we pull that off?' It's like winning a pie-eating contest after accidentally eating the paper plates too.",
+        "score": "Georgia 24 - Colorado 17",
+        "stats": {
+            "team1": {
+                "QBName": "Shedeur Sanders",
+                "team": "Colorado",
+                "comp": 24,
+                "att": 41,
+                "yds": 215,
+                "td": 1,
+                "int": 1
+            },
+            "team2": {
+                "QBName": "Carson Beck",
+                "team": "Georgia",
+                "comp": 8,
+                "att": 14,
+                "yds": 188,
+                "td": 3,
+                "int": 0
+            }
+        }
+    },
+    "2024_w1_ToledovsOleMiss": {
+        "newsTitle": "Dequan Finn's Dominance Propels Toledo to Victory, Heisman Hopes Skyrocket",
+        "newsImg": "../img/w1_toledo.jpg",
+        "newsCaption": "Toledo QB Dequan Finn Outshines in Mercy Rule Victory Over Ole Miss",
+        "articleText": "In the world of college football, where David rarely slays Goliath, the Toledo Rockets just rewrote the script, steamrolling Ole Miss 48-16 in a game that had more twists than a pretzel factory. Picture this: Toledo's QB, Dequan Finn, basically turned the field into his personal playground. He's not just throwing footballs; he's launching rockets. With a stat line of 234 yards, 4 TDs, and zero interceptions, Finn's Heisman hopes aren't just skyrocketing - they're in a different galaxy.\n\nNow, let's talk about Ole Miss QB Jaxon Dart. He was more generous than a grandparent at Christmas, dishing out 6 interceptions. That's right, leading the league in giving away the ball like it's a hot potato. And with a 21/40 for 264 yards, it's like he thought his receivers were playing for Toledo.\n\nFinn wasn't content with just air domination; he decided to rush 9 times for 61 yards and even snagged a touchdown on foot. It's like watching a Swiss Army knife, but instead of tools, it's just different ways to score.\n\nThis wasn't just a victory; it was Toledo saying, 'Mercy rule? More like party time!' Ole Miss might need to check if they accidentally left their defense on the bus. This game had more surprises than a plot twist in a soap opera. And at the end, Toledo stands tall, not just as modest favorites, but as gridiron gladiators.",
+        "score": "Toledo 48 - Ole Miss 16",
+        "stats": {
+            "team1": {
+                "QBName": "Jaxon Dart",
+                "team": "Ole Miss",
+                "comp": 21,
+                "att": 40,
+                "yds": 264,
+                "td": 2,
+                "int": 6
+            },
+            "team2": {
+                "QBName": "Dequan Finn",
+                "team": "Toledo",
+                "comp": 8,
+                "att": 15,
+                "yds": 234,
+                "td": 5,
+                "int": 0
+            }
+        }
+    },
     "2024_w1_TexasvsUW": {
         "newsTitle": "UW Steals the Show in Primetime Thriller, Edging Texas 58-52 with Dramatic Pick-6 Victory",
         "newsImg": "../img/w1_uw.jpg",
