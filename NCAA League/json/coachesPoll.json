@@ -1,34 +1,34 @@
 [
     {
         "name": "Toledo (Adrian)",
-        "pollScore": 64
+        "pollScore": 60
     },
     {
         "name": "Texas (Bob)",
-        "pollScore": 52
-    },
-    {
-        "name": "Washington (Minwoo)",
-        "pollScore": 44
-    },
-    {
-        "name": "Ole Miss (JP)",
-        "pollScore": 31
-    },
-    {
-        "name": "Georgia (Kaveh)",
         "pollScore": 40
     },
     {
-        "name": "Colorado (Logan)",
-        "pollScore": 22
+        "name": "Washington (Minwoo)",
+        "pollScore": 9
     },
     {
-        "name": "USC (Chen)",
+        "name": "Ole Miss (JP)",
+        "pollScore": 49
+    },
+    {
+        "name": "Georgia (Kaveh)",
+        "pollScore": 30
+    },
+    {
+        "name": "Colorado (Logan)",
         "pollScore": 20
     },
     {
+        "name": "USC (Chen)",
+        "pollScore": 21
+    },
+    {
         "name": "LSU (Tom)",
-        "pollScore": 13
+        "pollScore": 59
     }
 ]
