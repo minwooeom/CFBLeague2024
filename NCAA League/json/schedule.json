@@ -37,60 +37,68 @@
         {
             "homeTeam": "LSU",
             "awayTeam": "Toledo",
-            "spread": "-16.5 Toledo",
-            "score": "",
-            "isCompleted": false
+            "spread": "-8.5 Toledo",
+            "score": "36-22",
+            "isCompleted": true,
+            "id": "2024_w2_LsuvsToledo"
         },
         {
             "homeTeam": "Georgia",
             "awayTeam": "Texas",
             "spread": "-6.5 Texas",
-            "score": "",
-            "isCompleted": false
+            "score": "24-30",
+            "isCompleted": true,
+            "id": "2024_w2_GeorgiavsTexas"
         },
         {
             "homeTeam": "Colorado",
             "awayTeam": "USC",
             "spread": "-6.5 Colorado",
-            "score": "",
-            "isCompleted": false
+            "score": "26-14",
+            "isCompleted": true,
+            "id": "2024_w2_ColoradovsUSC"
         },
         {
             "homeTeam": "Washington",
             "awayTeam": "Ole Miss",
             "spread": "-2.5 Washington",
-            "score": "",
-            "isCompleted": false
+            "score": "26-48",
+            "isCompleted": true,
+            "id": "2024_w2_UWvsOleMiss"
         }
     ],
     "Week3": [
         {
             "homeTeam": "USC",
             "awayTeam": "Washington",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-10.5 Washington",
+            "score": "23-22",
+            "isCompleted": true,
+            "id": "2024_w3_USCvsUW"
         },
         {
             "homeTeam": "LSU",
             "awayTeam": "Georgia",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-8.5 LSU",
+            "score": "40-33",
+            "isCompleted": true,
+            "id": "2024_w3_LSUvsGeorgia"
         },
         {
             "homeTeam": "Colorado",
             "awayTeam": "Ole Miss",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-8.5 Ole Miss",
+            "score": "20-44",
+            "isCompleted": true,
+            "id": "2024_w3_ColoradovsOleMiss"
         },
         {
             "homeTeam": "Toledo",
             "awayTeam": "Texas",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-6.5 Toledo",
+            "score": "39-26",
+            "isCompleted": true,
+            "id": "2024_w3_ToledovsTexas"
         }
     ],
     "Week4": [
