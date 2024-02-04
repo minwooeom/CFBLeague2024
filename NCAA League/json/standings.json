@@ -2,65 +2,65 @@
     {
         "team": "LSU (Tom)",
         "id": "tomc",
-        "wins": 0,
+        "wins": 2,
         "losses": 1,
         "ties": 0,
-        "pointDiff": -5
+        "pointDiff": 16
     },
     {
         "team": "Texas (Bob)",
         "id": "bobc",
-        "wins": 0,
-        "losses": 1,
+        "wins": 1,
+        "losses": 2,
         "ties": 0,
-        "pointDiff": -6
+        "pointDiff": -13
     },
     {
         "team": "Toledo (Adrian)",
         "id": "adrianw",
-        "wins": 1,
-        "losses": 0,
+        "wins": 2,
+        "losses": 1,
         "ties": 0,
-        "pointDiff": 32
+        "pointDiff": 31
     },
     {
         "team": "Washington (Minwoo)",
         "id": "minwooe",
         "wins": 1,
-        "losses": 0,
+        "losses": 2,
         "ties": 0,
-        "pointDiff": 6
+        "pointDiff": -17
     },
     {
         "team": "Ole Miss (JP)",
         "id": "jpi",
-        "wins": 0,
+        "wins": 2,
         "losses": 1,
         "ties": 0,
-        "pointDiff": -32
+        "pointDiff": 14
     },
     {
         "team": "USC (Chen)",
         "id": "ethanc",
-        "wins": 1,
-        "losses": 0,
+        "wins": 2,
+        "losses": 1,
         "ties": 0,
-        "pointDiff": 5
+        "pointDiff": -6
     },
     {
         "team": "Georgia (Kaveh)",
         "id": "kavehw",
         "wins": 1,
-        "losses": 0,
+        "losses": 2,
         "ties": 0,
-        "pointDiff": 7
+        "pointDiff": -6
     },
     {
         "team": "Colorado (Logan)",
         "id": "logany",
-        "wins": 0,
-        "losses": 1,
+        "wins": 1,
+        "losses": 2,
         "ties": 0,
-        "pointDiff": -7
+        "pointDiff": -19
     }
 ]
