@@ -105,60 +105,60 @@
         {
             "homeTeam": "Toledo",
             "awayTeam": "Colorado",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-12.5 Toledo",
+            "score": "28-14",
+            "isCompleted": true
         },
         {
             "homeTeam": "Georgia",
             "awayTeam": "Ole Miss",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-6.5 Ole Miss",
+            "score": "14-47",
+            "isCompleted": true
         },
         {
             "homeTeam": "Washington",
             "awayTeam": "LSU",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-10.5 LSU",
+            "score": "46-20",
+            "isCompleted": true
         },
         {
             "homeTeam": "Texas",
             "awayTeam": "USC",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-6.5 Texas",
+            "score": "54-16",
+            "isCompleted": true
         }
     ],
     "Week5": [
         {
             "homeTeam": "Washington",
             "awayTeam": "Toledo",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-10.5 Toledo",
+            "score": "25-26",
+            "isCompleted": true
         },
         {
-            "homeTeam": "Toledo",
+            "homeTeam": "Ole Miss",
             "awayTeam": "LSU",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-6.5 LSU",
+            "score": "28-20",
+            "isCompleted": true
         },
         {
             "homeTeam": "Georgia",
             "awayTeam": "Texas",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-6.5 Texas",
+            "score": "40-38",
+            "isCompleted": true
         },
         {
             "homeTeam": "USC",
             "awayTeam": "Colorado",
-            "spread": "",
-            "score": "",
-            "isCompleted": false
+            "spread": "-8.5 Colorado",
+            "score": "14-28",
+            "isCompleted": true
         }
     ],
     "Week6": [
